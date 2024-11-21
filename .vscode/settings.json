@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Glaswelt.sln"
+    "dotnet.defaultSolution": "glaswelt.sln"
 }
